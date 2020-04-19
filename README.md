@@ -1,2 +1,2 @@
 # Pytorch_study
-파이토치 공부한 내용을 정리했습니다.
+TACTICS_LAB에서 진행한 파이토치 입니다.
